@@ -1,0 +1,15 @@
+:root {
+  --background1: #fff;
+  --background2: #18002f;
+  --text1: #000;
+  --text2: #fff;
+  --link: #0091f9;
+}
+
+.el-notification {
+  background: var(--background2) !important;
+  border: none !important;
+  p {
+    color: var(--text2);
+  }
+}
